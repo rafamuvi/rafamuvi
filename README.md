@@ -9,5 +9,5 @@ Skills: / JavaScript / Kotlin / Ruby / Cypress / Appium / Mocha Chai /
 - 🌱 I’m currently learning Jetpack Compose 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafamuvi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafael-muniz-vieira-b4239751//)  
+[<img src='https://cdn-icons-png.flaticon.com/512/1322/1322104.png' alt='github' height='40'>](https://github.com/rafamuvi)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rafael-muniz-vieira-b4239751//)  
 
